@@ -1,3 +1,3 @@
 # About me
 
-My name is Larissa Tchani. I am looking for new opportunities.
+My name is **Larissa Tchani**. I am looking for *new opportunities*.
